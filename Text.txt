@@ -1,2 +1,3 @@
 This is my Text File
 This is editing that i have done in branch1
+This is an Error message
